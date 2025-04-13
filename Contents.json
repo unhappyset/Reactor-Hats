@@ -4,13 +4,13 @@
 		{
 			"Main" : {
 				"Hash" : "959d1ec7dd0ddc8de99ec8c8b1e13d4e",
-				"Address" : "tYqz7c_Main.png",
+				"Address" : "jdtZ8c_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
 			"Climb" : {
 				"Hash" : "ed396b249ca3aaf483699e94c6741040",
-				"Address" : "tYqz7c_Climb.png",
+				"Address" : "jdtZ8c_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
@@ -20,22 +20,22 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "ばけつ",
-			"Author" : "unhappyset",
-			"Package" : "2",
+			"Name" : "バケツ",
+			"Author" : "アンハッピーセット",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
 				"Hash" : "2229491d71d98e12c5336d121c19d264",
-				"Address" : "9MRIoFqIb_Main.png",
+				"Address" : "5QpnrJgu_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
 			"Climb" : {
 				"Hash" : "e179b3f8ad7a44e6d530a92d98119a71",
-				"Address" : "9MRIoFqIb_Climb.png",
+				"Address" : "5QpnrJgu_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
@@ -47,7 +47,7 @@
 			"FPS" : 1,
 			"Name" : "カラーコーン（危険）",
 			"Author" : "Voider_",
-			"Package" : "2",
+			"Package" : "1",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -60,7 +60,7 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "2",
+			"Package" : "1",
 			"Format" : "Reactor Hats",
 			"Priority" : 1,
 			"IsLocalizable" : True
