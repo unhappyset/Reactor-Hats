@@ -3,8 +3,8 @@
 ## つくったひと
 unhappyset
 Discord:unhappyset  
-Twitter:https://x.com/nel_unhappyset
-Voider_
+Twitter:https://x.com/nel_unhappyset  
+Voider_  
 Discord:voider_01
 # 利用規約的な
 - 自作発言やめてね！
