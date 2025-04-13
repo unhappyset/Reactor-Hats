@@ -3,7 +3,7 @@
 ## つくったひと
 **アンハッピーセット**  
 Discord:unhappyset  
-Twitter:https://x.com/nel_unhappyset　　
+Twitter:https://x.com/nel_unhappyset
 
 **Voider_**  
 # 利用規約的な
