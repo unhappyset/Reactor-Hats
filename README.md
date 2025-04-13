@@ -2,7 +2,7 @@
 まだカスタムハット2つしかないけどそのうち増やしていく予定です。
 ## つくったひと
 unhappyset
-Discord:unhappyset
+Discord:unhappyset  
 Twitter:https://x.com/nel_unhappyset
 Voider_
 Discord:voider_01
