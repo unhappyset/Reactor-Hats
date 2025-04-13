@@ -4,7 +4,7 @@
 **アンハッピーセット**  
 Discord:unhappyset  
 Twitter:https://x.com/nel_unhappyset　　
-　　　　
+
 **Voider_**  
 # 利用規約的な
 - 自作発言やめてね！
