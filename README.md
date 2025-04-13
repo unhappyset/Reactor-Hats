@@ -1,10 +1,10 @@
 # Reactor-Hats
 まだカスタムハット2つしかないけどそのうち増やしていく予定です。
 ## つくったひと
-unhappyset
+**アンハッピーセット**  
 Discord:unhappyset  
 Twitter:https://x.com/nel_unhappyset  
-Voider_  
+**Voider_**  
 Discord:voider_01
 # 利用規約的な
 - 自作発言やめてね！
