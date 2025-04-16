@@ -4,13 +4,13 @@
 		{
 			"Main" : {
 				"Hash" : "959d1ec7dd0ddc8de99ec8c8b1e13d4e",
-				"Address" : "jdtZ8c_Main.png",
+				"Address" : "Bucket_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
 			"Climb" : {
 				"Hash" : "ed396b249ca3aaf483699e94c6741040",
-				"Address" : "jdtZ8c_Climb.png",
+				"Address" : "Bucket_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
@@ -22,20 +22,26 @@
 			"FPS" : 1,
 			"Name" : "バケツ",
 			"Author" : "アンハッピーセット",
-			"Package" : "1",
+			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
 				"Hash" : "2229491d71d98e12c5336d121c19d264",
-				"Address" : "5QpnrJgu_Main.png",
+				"Address" : "Traffic_Danger_Main.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
 			"Climb" : {
 				"Hash" : "e179b3f8ad7a44e6d530a92d98119a71",
-				"Address" : "5QpnrJgu_Climb.png",
+				"Address" : "Traffic_Danger_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Preview" : {
+				"Hash" : "2229491d71d98e12c5336d121c19d264",
+				"Address" : "Traffic_Danger_Preview.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
@@ -47,7 +53,94 @@
 			"FPS" : 1,
 			"Name" : "カラーコーン（危険）",
 			"Author" : "Voider_",
-			"Package" : "1",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fdaac8f743096d589ed0b75922360b29",
+				"Address" : "CrewmateBall_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Climb" : {
+				"Hash" : "fdaac8f743096d589ed0b75922360b29",
+				"Address" : "CrewmateBall_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "クルーボール",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "36b3e4ce3d5ca4a5d3b2cdf5b9f85374",
+				"Address" : "Parasite_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Back" : {
+				"Hash" : "da4d9f5f4e70c493b16ec96d9f4f54fb",
+				"Address" : "Parasite_Back.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Climb" : {
+				"Hash" : "fef8179a39b32cc037fbb5ba3b12d387",
+				"Address" : "Parasite_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パラサイト",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "dcdb70ab2fbcbc9e4e45cfbb6def9e22",
+				"Address" : "Parasite_WithMiniCrew_Main.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Back" : {
+				"Hash" : "da4d9f5f4e70c493b16ec96d9f4f54fb",
+				"Address" : "Parasite_WithMiniCrew_Back.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Climb" : {
+				"Hash" : "5632b3bfb87bee4c73b125f05e1de18a",
+				"Address" : "Parasite_WithMiniCrew_Climb.png",
+				"ExIsFront" : False,
+				"MaskAddress" : null
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "パラサイト（ミニクルーメイト）",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -60,7 +153,7 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "1",
+			"Package" : "Reactor Hats",
 			"Format" : "Reactor Hats",
 			"Priority" : 1,
 			"IsLocalizable" : True
