@@ -5,14 +5,12 @@
 			"Main" : {
 				"Hash" : "959d1ec7dd0ddc8de99ec8c8b1e13d4e",
 				"Address" : "Bucket_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "ed396b249ca3aaf483699e94c6741040",
 				"Address" : "Bucket_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : True,
 			"Adaptive" : False,
@@ -30,20 +28,17 @@
 			"Main" : {
 				"Hash" : "2229491d71d98e12c5336d121c19d264",
 				"Address" : "Traffic_Danger_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "e179b3f8ad7a44e6d530a92d98119a71",
 				"Address" : "Traffic_Danger_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Preview" : {
 				"Hash" : "2229491d71d98e12c5336d121c19d264",
 				"Address" : "Traffic_Danger_Preview.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : True,
 			"Adaptive" : False,
@@ -61,14 +56,12 @@
 			"Main" : {
 				"Hash" : "fdaac8f743096d589ed0b75922360b29",
 				"Address" : "CrewmateBall_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "fdaac8f743096d589ed0b75922360b29",
 				"Address" : "CrewmateBall_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -86,20 +79,17 @@
 			"Main" : {
 				"Hash" : "36b3e4ce3d5ca4a5d3b2cdf5b9f85374",
 				"Address" : "Parasite_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Back" : {
 				"Hash" : "da4d9f5f4e70c493b16ec96d9f4f54fb",
 				"Address" : "Parasite_Back.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "fef8179a39b32cc037fbb5ba3b12d387",
 				"Address" : "Parasite_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -117,20 +107,17 @@
 			"Main" : {
 				"Hash" : "dcdb70ab2fbcbc9e4e45cfbb6def9e22",
 				"Address" : "Parasite_WithMiniCrew_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Back" : {
 				"Hash" : "da4d9f5f4e70c493b16ec96d9f4f54fb",
 				"Address" : "Parasite_WithMiniCrew_Back.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "5632b3bfb87bee4c73b125f05e1de18a",
 				"Address" : "Parasite_WithMiniCrew_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
+				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : True,
@@ -146,8 +133,85 @@
 		}
 	],
 	"Visors" : [
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
+				"Address" : "Hand_Main.png",
+				"ExHash" : "87e6ddee971286c7523fbd26c7502dfc",
+				"ExAddress" : "Ketchup_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ケチャップ/マスタード",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"OnButton" : {
+				"Name" : "マスタードボタン用",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
+				"Address" : "Hand_Main.png",
+				"ExHash" : "67c3e8b91d8101eb730e5797fe02eda9",
+				"ExAddress" : "Mustard_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "マスタードボタン用",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "ケチャップ/マスタード",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "8d563cf1c805e1496599095a070ef979",
+				"Address" : "Mu_Main.png",
+				"ExIsFront" : False
+			},
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "むっ",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 	],
 	"Nameplates" : [
+		{
+			"Adaptive" : {
+				"Hash" : "8e2e451e448ea8f4980312b983314b00",
+				"Address" : "CrewmateColor_Adaptive.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "クルーカラー",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor NamePlates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 	],
 	"Stamps" : [
 	],
@@ -155,6 +219,18 @@
 		{
 			"Package" : "Reactor Hats",
 			"Format" : "Reactor Hats",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "Reactor Visors",
+			"Format" : "Reactor Visors",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "Reactor NamePlates",
+			"Format" : "Reactor NamePlates",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
