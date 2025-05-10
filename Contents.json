@@ -130,13 +130,65 @@
 			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ad61d73d7b245f8cce5fe89823b617a7",
+				"Address" : "Crew_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "76e860402d81bb8a97085748c749e979",
+				"Address" : "Crew_Move.png",
+				"ExIsFront" : False,
+				"X" : 3,
+				"Y" : 1
+			},
+			"Climb" : {
+				"Hash" : "629aa6353847d9396cd42bcb514ddf5c",
+				"Address" : "Crew_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 9,
+			"Name" : "クルーパペット",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"GhostAlternative" : {
+				"Name" : "CrewmateG",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "05ae95957cecc2a8710d9838d6fe2eba",
+				"Address" : "Crew_G_Main.png",
+				"ExIsFront" : False,
+				"X" : 3,
+				"Y" : 1
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 10,
+			"Name" : "CrewmateG",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
 				"Address" : "Hand_Main.png",
@@ -144,6 +196,9 @@
 				"ExAddress" : "Ketchup_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ケチャップ/マスタード",
@@ -157,16 +212,16 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
-				"Address" : "Hand_Main_Mustard.png",
+				"Address" : "Hand_Main.png",
 				"ExHash" : "67c3e8b91d8101eb730e5797fe02eda9",
 				"ExAddress" : "Mustard_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "マスタードボタン用",
@@ -181,14 +236,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "8d563cf1c805e1496599095a070ef979",
 				"Address" : "Mu_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "むっ",
