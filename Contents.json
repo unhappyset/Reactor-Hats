@@ -189,6 +189,9 @@
 	],
 	"Visors" : [
 		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
 				"Address" : "Hand_Main.png",
@@ -196,9 +199,6 @@
 				"ExAddress" : "Ketchup_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ケチャップ/マスタード",
@@ -212,6 +212,9 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
 				"Address" : "Hand_Main.png",
@@ -219,9 +222,6 @@
 				"ExAddress" : "Mustard_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "マスタードボタン用",
@@ -236,17 +236,36 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "8d563cf1c805e1496599095a070ef979",
 				"Address" : "Mu_Main.png",
 				"ExIsFront" : False
 			},
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "むっ",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Main" : {
+				"Hash" : "b02228c1bdba2cd3f578b5b3527bbe27",
+				"Address" : "ImpostorVisor_Main.png",
+				"ExIsFront" : False,
+				"X" : 7,
+				"Y" : 1
+			},
+			"Fixed" : False,
+			"FPS" : 12,
+			"Name" : "怪しい光",
 			"Author" : "アンハッピーセット",
 			"Package" : "Reactor Visors",
 			"IsUnlockable" : False,
