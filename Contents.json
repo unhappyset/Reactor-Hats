@@ -185,13 +185,39 @@
 			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ca76da526af8772a9a448eb8c0db646e",
+				"Address" : "UFO_Main.png",
+				"ExIsFront" : False,
+				"Length" : 33,
+				"X" : 10,
+				"Y" : 4
+			},
+			"Climb" : {
+				"Hash" : "d16d197ce350251b86c1efbd61bc97d8",
+				"Address" : "UFO_Climb.png",
+				"ExIsFront" : False,
+				"Length" : 33,
+				"X" : 10,
+				"Y" : 4
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 13,
+			"Name" : "アブダクション",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
 				"Address" : "Hand_Main.png",
@@ -199,6 +225,9 @@
 				"ExAddress" : "Ketchup_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ケチャップ/マスタード",
@@ -212,9 +241,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
 				"Address" : "Hand_Main.png",
@@ -222,6 +248,9 @@
 				"ExAddress" : "Mustard_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "マスタードボタン用",
@@ -236,14 +265,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "8d563cf1c805e1496599095a070ef979",
 				"Address" : "Mu_Main.png",
 				"ExIsFront" : False
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "むっ",
@@ -253,9 +282,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"BehindHat" : False,
-			"BackmostBack" : False,
 			"Main" : {
 				"Hash" : "b02228c1bdba2cd3f578b5b3527bbe27",
 				"Address" : "ImpostorVisor_Main.png",
@@ -263,9 +289,63 @@
 				"X" : 7,
 				"Y" : 1
 			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
 			"Fixed" : False,
 			"FPS" : 12,
 			"Name" : "怪しい光",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a3b20c2e003e5f10013928a013fc2829",
+				"Address" : "hey_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "＝）",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5ff7c21391462a72c3888fc5024420ba",
+				"Address" : "hm_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "＝（",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "33f067989f21b52098c1597fb2cb8efc",
+				"Address" : "comms_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "電波が必要",
 			"Author" : "アンハッピーセット",
 			"Package" : "Reactor Visors",
 			"IsUnlockable" : False,
@@ -288,6 +368,22 @@
 		}
 	],
 	"Stamps" : [
+		{
+			"Image" : {
+				"Hash" : "5e4a6a56f6e6e684012772ac8038ad99",
+				"Address" : "Task_Shiro.png",
+				"ExHash" : "3e608bd29e4d59fd4801871351f21cd0",
+				"ExAddress" : "Task_Shiro_Text.png",
+				"ExIsFront" : True
+			},
+			"Adaptive" : True,
+			"FPS" : 1,
+			"Name" : "タスクしろ",
+			"Author" : "Voider_",
+			"Package" : "Reactor Stamps",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 	],
 	"Packages" : [
 		{
@@ -305,6 +401,12 @@
 		{
 			"Package" : "Reactor NamePlates",
 			"Format" : "Reactor NamePlates",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "Reactor Stamps",
+			"Format" : "Reactor Stamps",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
