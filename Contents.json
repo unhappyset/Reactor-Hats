@@ -3,12 +3,12 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "959d1ec7dd0ddc8de99ec8c8b1e13d4e",
+				"Hash" : "355ae4a82b10e2f47554e1c0a44391aa",
 				"Address" : "Bucket_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "ed396b249ca3aaf483699e94c6741040",
+				"Hash" : "91788de64908ddaf648e7831c10353dd",
 				"Address" : "Bucket_Climb.png",
 				"ExIsFront" : False
 			},
@@ -214,6 +214,52 @@
 			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "24c144144891769fa327a169e500be4a",
+				"Address" : "ImpostorHoodie_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b72944d17278c855fcddfb5a769a9e60",
+				"Address" : "ImpostorHoodie_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "インポスター？",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "bd3fa2609ebe6f3e49583e0ef6d3784d",
+				"Address" : "Men_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c07e14d391b24c4d43563bd0409bb681",
+				"Address" : "Men_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Men",
+			"Author" : "Men",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -243,7 +289,7 @@
 		{
 			"Main" : {
 				"Hash" : "16568ab8d0ddd5932278ea913d52a043",
-				"Address" : "Hand_Main.png",
+				"Address" : "Hand_Mustard_Main.png",
 				"ExHash" : "67c3e8b91d8101eb730e5797fe02eda9",
 				"ExAddress" : "Mustard_Main.png",
 				"ExIsFront" : False
@@ -372,13 +418,29 @@
 			"Image" : {
 				"Hash" : "5e4a6a56f6e6e684012772ac8038ad99",
 				"Address" : "Task_Shiro.png",
-				"ExHash" : "3e608bd29e4d59fd4801871351f21cd0",
+				"ExHash" : "07a6782fd12415775f38be30c6c631cf",
 				"ExAddress" : "Task_Shiro_Text.png",
 				"ExIsFront" : True
 			},
 			"Adaptive" : True,
 			"FPS" : 1,
 			"Name" : "タスクしろ",
+			"Author" : "Voider_",
+			"Package" : "Reactor Stamps",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Image" : {
+				"Hash" : "7b6e2c69b6bb143c907637a2d1f44930",
+				"Address" : "Naniyatteruno.png",
+				"ExHash" : "f50c9c739016d5493421388b998cb601",
+				"ExAddress" : "Naniyatteruno_Text.png",
+				"ExIsFront" : True
+			},
+			"Adaptive" : True,
+			"FPS" : 1,
+			"Name" : "なにやってるの？",
 			"Author" : "Voider_",
 			"Package" : "Reactor Stamps",
 			"IsUnlockable" : False,
