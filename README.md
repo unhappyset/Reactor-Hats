@@ -1,5 +1,5 @@
 # Reactor-Hats
-ちょっとづつ作っていくよ
+いろいろ作っていくよ
 ## つくったひと
 **アンハッピーセット**  
 Discord:unhappyset  
