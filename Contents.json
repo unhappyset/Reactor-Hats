@@ -260,6 +260,179 @@
 			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7fb2895d321a165387150bb10987445a",
+				"Address" : "bf_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f66b67dfcbdbdec7b79efdaf5744f4fb",
+				"Address" : "bf_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "BOYFRIEND\.xml",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "358c6ffca1f84ef5515facfceb5f0f9a",
+				"Address" : "tanzaku_Main.png",
+				"ExHash" : "538d52ae42f2d4ae92439469aff73ff1",
+				"ExAddress" : "huurinn_Main.png",
+				"ExIsFront" : True
+			},
+			"Back" : {
+				"Hash" : "f78d932ca4de6228014a4dfc80a04f66",
+				"Address" : "tanzaku_Back.png",
+				"ExHash" : "3da4953f7b4e448bbf59038103f8ab53",
+				"ExAddress" : "huurinn_Back.png",
+				"ExIsFront" : True
+			},
+			"Move" : {
+				"Hash" : "929e36d23f37d0124a14d9ecb7112a64",
+				"Address" : "tanzaku_Move.png",
+				"ExHash" : "538d52ae42f2d4ae92439469aff73ff1",
+				"ExAddress" : "huurinn_Main.png",
+				"ExIsFront" : True
+			},
+			"MoveBack" : {
+				"Hash" : "9bc4150b28872db2725aead90c618596",
+				"Address" : "tanzaku_MoveBack.png",
+				"ExHash" : "3da4953f7b4e448bbf59038103f8ab53",
+				"ExAddress" : "huurinn_Back.png",
+				"ExIsFront" : True
+			},
+			"Climb" : {
+				"Hash" : "be374a21c527e919ba28991fd2ccf3f2",
+				"Address" : "tanzaku_Climb.png",
+				"ExHash" : "ef71aa72883b26ab15e58d44e1ca6485",
+				"ExAddress" : "huurinn_Climb.png",
+				"ExIsFront" : True
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "デュアル風鈴",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6b0ea1d6c9ec48e521dcc8f1da5bd857",
+				"Address" : "paperbag_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2e4d58d08baa1062922668a728169605",
+				"Address" : "paperbag_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "紙袋",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "f5fd29de91a87eae9ff146e767af9e5a",
+				"Address" : "angelring_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f603fab95a5d2751964dd7564ec8e4b6",
+				"Address" : "angelring_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "エンジェルリング",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e419dab6a405455b0a47f5c51798c1a9",
+				"Address" : "balloon_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "33c52796809da675bf84d94303cfaead",
+				"Address" : "balloon_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "51f4d8b72d35b0d38e8f1d8316b53821",
+				"Address" : "balloon_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "バルーン",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d12c71089b449dca6de0de9ad41198bb",
+				"Address" : "crystal_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "48c90e71ced478e5c4046b5a714a1189",
+				"Address" : "crystal_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d3aefd8db9cc734a7d92fcada846651b",
+				"Address" : "crystal_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "クリスタル",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -392,6 +565,28 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "電波が必要",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fca0ca172afa378c91382a141b679bc4",
+				"Address" : "megane_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "2206cd7aba744d93f0363f148b1672c2",
+				"Address" : "megane_Back.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "めがね",
 			"Author" : "アンハッピーセット",
 			"Package" : "Reactor Visors",
 			"IsUnlockable" : False,
