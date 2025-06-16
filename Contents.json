@@ -433,6 +433,61 @@
 			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fc267bc3fe67eee568c2f1b2e5e87389",
+				"Address" : "Fennec_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "15191ba320c0c2f5229a0bff4ba00eef",
+				"Address" : "Fennec_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "fdb07958c573d42554e57dc350bdeed1",
+				"Address" : "Fennec_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "フェネック",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "aebb58fc3bf7a6120049063113ecc574",
+				"Address" : "Snow_Main.png",
+				"ExIsFront" : False,
+				"X" : 4,
+				"Y" : 1
+			},
+			"Climb" : {
+				"Hash" : "aebb58fc3bf7a6120049063113ecc574",
+				"Address" : "Snow_Climb.png",
+				"ExIsFront" : False,
+				"X" : 4,
+				"Y" : 1
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 5,
+			"Name" : "スノードーム",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -591,6 +646,45 @@
 			"Package" : "Reactor Visors",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "bc7f54c16b7e46aca08a918050e07c2b",
+				"Address" : "Snipe_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b3ef45ad5c42d7a66e18c0ad9696c26d",
+				"Address" : "Snipe_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : True,
+			"FPS" : 1,
+			"Name" : "狙われている",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0fcb42b75469c4def1722bdaea3ddca3",
+				"Address" : "More_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "とりあえずたくさんつける",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
@@ -602,6 +696,19 @@
 			},
 			"AdaptiveInFront" : True,
 			"Name" : "クルーカラー",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor NamePlates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "87ac51d38bc8450d3a5e0d8939da8298",
+				"Address" : "LohVacjec_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "DEFEAT",
 			"Author" : "アンハッピーセット",
 			"Package" : "Reactor NamePlates",
 			"IsUnlockable" : False,
