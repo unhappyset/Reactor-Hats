@@ -3,13 +3,13 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "355ae4a82b10e2f47554e1c0a44391aa",
-				"Address" : "Bucket_Main.png",
+				"Hash" : "0197bbfc3d571af64ee8c41690ab73bf",
+				"Address" : "jdtZ8c_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "91788de64908ddaf648e7831c10353dd",
-				"Address" : "Bucket_Climb.png",
+				"Hash" : "a912a41a31e1b5687cf44c982c5b37ab",
+				"Address" : "jdtZ8c_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : True,
@@ -464,15 +464,15 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "aebb58fc3bf7a6120049063113ecc574",
-				"Address" : "Snow_Main.png",
+				"Hash" : "f554cfd5b20f037c6ab75cd95ac77675",
+				"Address" : "A3buP6AMb_Main.png",
 				"ExIsFront" : False,
 				"X" : 4,
 				"Y" : 1
 			},
 			"Climb" : {
-				"Hash" : "aebb58fc3bf7a6120049063113ecc574",
-				"Address" : "Snow_Climb.png",
+				"Hash" : "f554cfd5b20f037c6ab75cd95ac77675",
+				"Address" : "A3buP6AMb_Climb.png",
 				"ExIsFront" : False,
 				"X" : 4,
 				"Y" : 1
@@ -485,6 +485,86 @@
 			"FPS" : 5,
 			"Name" : "スノードーム",
 			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "920ea6b8e672d905c92cb6adbecfa971",
+				"Address" : "e3X0Kadn_Main.png",
+				"ExHash" : "d50b64db981a6c8893489529b1f7c1d0",
+				"ExAddress" : "Jb_Main.png",
+				"ExIsFront" : True
+			},
+			"Back" : {
+				"Hash" : "33e103d262b9d12f8e702125982326ec",
+				"Address" : "e3X0Kadn_Back.png",
+				"ExHash" : "d400b5b06f868e2e31adc354bdc51301",
+				"ExAddress" : "b7mc5i_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "08e1202e0219fc9f53255a629f00544f",
+				"Address" : "e3X0Kadn_Climb.png",
+				"ExHash" : "fddb8d8273ceae47bdfb56297607641f",
+				"ExAddress" : "Jb_ClimbDown.png",
+				"ExIsFront" : True
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ホットドッグ",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e5f3260c46fdec8b9fb956202227a7a0",
+				"Address" : "odq0noQX_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4347f49d02b728964578f50009cba10c",
+				"Address" : "odq0noQX_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "巨大カラーコーン",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "add362cf06766f0dc585fff45d60541a",
+				"Address" : "Rhty_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "326c07399711d0dc0e7682fcb3065045",
+				"Address" : "Rhty_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "せと",
+			"Author" : "こむぎこ",
 			"Package" : "Reactor Hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -683,6 +763,83 @@
 			"Name" : "とりあえずたくさんつける",
 			"Author" : "アンハッピーセット",
 			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cfa20ef0b1597ca46abf1bde80a56708",
+				"Address" : "7MB7RRte_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "2206cd7aba744d93f0363f148b1672c2",
+				"Address" : "7MB7RRte_Back.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ディールメイカー",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a596da83a623c84806c2b12a9b500bbc",
+				"Address" : "P6fWeFw_Main.png",
+				"ExHash" : "dc78914ffbfe29d4012725e1a5a1ef74",
+				"ExAddress" : "G2n_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "386eac120d261e44245c1429679922df",
+				"Address" : "P6fWeFw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "リーパー",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"OnButton" : {
+				"Name" : "ReaperAlt",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "386eac120d261e44245c1429679922df",
+				"Address" : "ElirRixx_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "386eac120d261e44245c1429679922df",
+				"Address" : "ElirRixx_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ReaperAlt",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "リーパー",
+				"Author" : "アンハッピーセット"
+			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
