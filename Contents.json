@@ -240,13 +240,13 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "bd3fa2609ebe6f3e49583e0ef6d3784d",
-				"Address" : "Men_Main.png",
+				"Hash" : "a3a0ad0b220e57cc137d4480a0f60d3b",
+				"Address" : "a3Oib_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "c07e14d391b24c4d43563bd0409bb681",
-				"Address" : "Men_Climb.png",
+				"Hash" : "c8d712ef1b8c562639b3986edfb448c8",
+				"Address" : "a3Oib_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -548,12 +548,12 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "add362cf06766f0dc585fff45d60541a",
+				"Hash" : "3b6de7f671c109a992e430118bd1a9b4",
 				"Address" : "Rhty_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "326c07399711d0dc0e7682fcb3065045",
+				"Hash" : "e3cce3a624c92d3f1dab95b891dcb31b",
 				"Address" : "Rhty_Climb.png",
 				"ExIsFront" : False
 			},
