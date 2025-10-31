@@ -817,16 +817,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Back" : {
-				"Hash" : "386eac120d261e44245c1429679922df",
-				"Address" : "ElirRixx_Back.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "386eac120d261e44245c1429679922df",
-				"Address" : "ElirRixx_Climb.png",
-				"ExIsFront" : False
-			},
 			"Adaptive" : False,
 			"BehindHat" : False,
 			"BackmostBack" : True,
@@ -838,6 +828,122 @@
 			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "リーパー",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "73ff38fd3f4ec8403bf9652cf826c33d",
+				"Address" : "sNHYWfxWb_Main.png",
+				"ExHash" : "6858fd1dc98c6778c98931cc54fa5af3",
+				"ExAddress" : "mechanicex.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "メカニックバイザー",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"SabotageAlternative" : {
+				"Name" : "メカニックバイザーSabo",
+				"Author" : "アンハッピーセット"
+			},
+			"CommSabAlternative" : {
+				"Name" : "メカニックバイザーComm",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fc046059e5de6247cb29537557a3993c",
+				"Address" : "comm.png",
+				"ExHash" : "a5fca8021a649f812d048730d9db7200",
+				"ExAddress" : "commex.png",
+				"ExIsFront" : False,
+				"X" : 2,
+				"Y" : 1
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "メカニックバイザーComm",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "73ff38fd3f4ec8403bf9652cf826c33d",
+				"Address" : "scsD4HTA_Main.png",
+				"ExHash" : "ae1a337a040c0dc2f581aa4d0bc1e0c2",
+				"ExAddress" : "mechasabo.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "メカニックバイザーSabo",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "da4383357211429d200d50d3ed56799c",
+				"Address" : "DWEgsFw_Main.png",
+				"ExHash" : "4bb2a640632e2859a52cf1c45afe655f",
+				"ExAddress" : "megaphone.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "レポート",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"OnButton" : {
+				"Name" : "レポートAlt",
+				"Author" : "アンハッピーセット"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0530d9edfc300e2954cffd7f24d5e0d3",
+				"Address" : "jxyy9h3fb_Main.png",
+				"ExHash" : "37fa1f85366b6ea84d17a6ce2f89d699",
+				"ExAddress" : "megaphonealt.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "レポートAlt",
+			"Author" : "アンハッピーセット",
+			"Package" : "Reactor Visors",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "レポート",
 				"Author" : "アンハッピーセット"
 			},
 			"IsUnlockable" : False,
@@ -901,6 +1007,23 @@
 			"FPS" : 1,
 			"Name" : "なにやってるの？",
 			"Author" : "Voider_",
+			"Package" : "Reactor Stamps",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Image" : {
+				"Hash" : "16b9a90bf3eec368dc9b150a7d2d226c",
+				"Address" : "kurunormal.png",
+				"ExIsFront" : False,
+				"Length" : 33,
+				"X" : 5,
+				"Y" : 2
+			},
+			"Adaptive" : True,
+			"FPS" : 5,
+			"Name" : "クルーくるくる(通常)",
+			"Author" : "アンハッピーセット",
 			"Package" : "Reactor Stamps",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
