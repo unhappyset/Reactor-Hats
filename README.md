@@ -1,13 +1,3 @@
-# Reactor-Hats
-いろいろ作っていくよ
-## つくったひと
-**アンハッピーセット**  
-Discord:unhappyset  
-Twitter:https://x.com/nel_unhappyset
-
-**Voider_**  
-
-**Men**  
 # 利用規約的な
 - 自作発言やめてね！
 - 再配布しないでね！
