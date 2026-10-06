@@ -656,6 +656,24 @@
 		},
 		{
 			"Main" : {
+				"Hash" : "005fdd0b8f606a6b7a87910f6b5926fa",
+				"Address" : "E5LG4K3Hb_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "狂気的な光",
+			"Author" : "たくえもん",
+			"Package" : "Reactor Visors",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
 				"Hash" : "a3b20c2e003e5f10013928a013fc2829",
 				"Address" : "hey_Main.png",
 				"ExIsFront" : False
